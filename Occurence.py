@@ -12,5 +12,5 @@ def count_characters(string):
         print(f"'{char}': {count}")
 
 
-string = "HelloWorld"
+string = "Jenithvarmaramvalar"
 count_characters(string)
